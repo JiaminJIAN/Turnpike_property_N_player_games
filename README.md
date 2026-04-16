@@ -1,1 +1,1 @@
-# Turnpike_property_N_player_games
+# Turnpike properties in linear quadratic Gaussian $N$-player differential games
